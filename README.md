@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Amaan Majeed</h1>
 <h3 align="center">A passionate Developer</h3>
 
-- 🔭 I’m currently working on [An AI Assistant](https://github.com/amaanmajeed/AI-Assistant)
+- 🔭 I’m currently working on [WebTech - Website](https://amaanmajeed.github.io/WebTech)
 
 - 🌱 I’m currently working on **Building my GitHub Portfolio**
 
-- 👨‍💻 All of my projects are available at [github.com](https://github.com/amaanmajeed/)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/amaanmajeed/)
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **amaanmajid123@gmail.com**
+- 📫 How to reach me [Gmail](amaanmajid123@gmail.com)
 
 - ⚡ Fun fact **Surprisingly, I can dance/sing pretty well**
 
@@ -32,8 +32,3 @@
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
