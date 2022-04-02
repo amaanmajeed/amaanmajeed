@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [WebTech - Website](https://amaanmajeed.github.io/WebTech)
 
-- 🌱 I’m currently working on **Building my GitHub Portfolio**
+- 🌱 I’m currently learning on **HTML & CSS**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/amaanmajeed/)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me anything about **Python**
 
-- 📫 How to reach me [Gmail](amaanmajid123@gmail.com)
+- 📫 You can reach me through mail [Gmail](amaanmajid123@gmail.com)
 
 - ⚡ Fun fact **Surprisingly, I can dance/sing pretty well**
 
