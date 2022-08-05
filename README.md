@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amaan Majeed</h1>
 <h3 align="center">A passionate Developer</h3>
 
-- 🔭 I’m currently working on [WebTech - Website](https://amaanmajeed.github.io/WebTech)
-
-- 🌱 I’m currently learning on **HTML & CSS**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/amaanmajeed/)
 
@@ -11,7 +9,7 @@
 
 - 📫 You can reach me through mail [Gmail](amaanmajid123@gmail.com)
 
-- ⚡ Fun fact **Surprisingly, I can dance/sing pretty well**
+- ⚡ Fun fact **Surprisingly, I can sing pretty well**
 
 ## 🌐Socials
 <p align="left">
