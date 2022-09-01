@@ -7,7 +7,7 @@
 
 - 💬 Ask me anything about **Python**
 
-- 📫 You can reach me through mail [Gmail](amaanmajid123@gmail.com)
+- 📫 You can reach me through my [Linktree](https://linktr.ee/amaanmajeed)
 
 - ⚡ Fun fact **Surprisingly, I can sing pretty well**
 
