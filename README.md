@@ -37,7 +37,8 @@
  </p>
 
 # 📊GitHub Stats :
-
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amaanmajeed&&theme=midnight-purple&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amaanmajeed&theme=midnight-purple&hide_border=true"/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amaanmajeed&theme=midnight-purple&hide_border=true)
 
 
