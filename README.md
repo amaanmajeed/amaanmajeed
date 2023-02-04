@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/amaanmajeed/)
-
-- 💬 Ask me anything about **Python**
+- 👨‍💻 All of my projects are available on [Github](https://github.com/amaanmajeed/)](https://github.com/amaanmajeed/)
 
 - 📫 You can reach me through my [Linktree](https://linktr.ee/amaanmajeed)
 
@@ -37,13 +35,15 @@
  </p>
 
 # 📊GitHub Stats :
+<p align="center">
+<a href="https://github.com/amaanmajeed">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amaanmajeed&&theme=midnight-purple&hide_border=true"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amaanmajeed&theme=midnight-purple&hide_border=true">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amaanmajeed&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
-
+</p>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### Here's some humor for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card">
+<img src="https://readme-jokes.vercel.app/api" alt=" Error fetching the resource, Refresh again to view Jokes Card">
