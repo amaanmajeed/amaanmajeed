@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available on [Github](https://github.com/amaanmajeed/)](https://github.com/amaanmajeed/)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/amaanmajeed/)
 
 - 📫 You can reach me through my [Linktree](https://linktr.ee/amaanmajeed)
 
@@ -46,4 +46,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### Here's some humor for you:
-<img src="https://readme-jokes.vercel.app/api" alt=" Error fetching the resource, Refresh again to view Jokes Card">
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card">
