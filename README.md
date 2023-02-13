@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amaan Majeed</h1>
 <h3 align="center">A passionate Developer</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **[Chrome Extension Development](https://github.com/amaanmajeed/Chrome-Extension-for-University-Portal-Login)**
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/amaanmajeed/)
 
