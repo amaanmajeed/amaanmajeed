@@ -17,7 +17,7 @@
 <a href="https://www.hackerrank.com/amaanmajid123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amaanmajid123" height="30" width="40" /></a>
 </p>
 
-# 💻Tech Stack
+## 💻Tech Stack
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -34,7 +34,7 @@
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
  </p>
 
-# 📊GitHub Stats :
+## 📊GitHub Stats :
 <p align="center">
 <a href="https://github.com/amaanmajeed">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amaanmajeed&&theme=midnight-purple&hide_border=true"/>
