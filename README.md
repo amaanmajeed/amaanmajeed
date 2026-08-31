@@ -18,10 +18,3 @@ Software Engineer at [CodingCops](https://codingcops.com) · based in Lahore
 ### Stack
 
 `Python` · `FastAPI` · `LangGraph` · `RAG` · `PostgreSQL` · `Qdrant` · `Vue` · `Docker` · `AWS`
-
-### GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=amaanmajeed&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaanmajeed&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
-</p>
