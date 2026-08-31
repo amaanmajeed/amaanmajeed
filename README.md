@@ -2,7 +2,7 @@
 
 **AI & Backend Engineer** — LLM agents, RAG, and production backends that hold up outside a demo.
 
-Software Engineer at [CodingCops](https://codingcops.com) · based in Lahore
+Software Engineer at [CodingCops](https://codingcops.com)
 
 - 🌐 Portfolio → [amaanmajeed.com](https://amaanmajeed.com)
 - 💼 LinkedIn → [linkedin.com/in/amaanmajeed](https://www.linkedin.com/in/amaanmajeed/)
